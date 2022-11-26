@@ -3,12 +3,12 @@
 **1.** Fork this repository. This will make you to create a copy of this repository under our github account.<br>
 **2.** Clone the forked repository by using the following command.<br>
         
-        git clone "https://github.com/<your-github-username>/fibonacci_series"
+        git clone "https://github.com/<your-github-username>/fibonacci-series"
 
 **3.** Create a new branch or just use the main branch
  - To create a new branch
 
-        cd fibonacci_series
+        cd fibonacci-series
         git checkout -b <your-branch-name>
 
 **4.** Check out the [Languages.md](Languages.md) and search for the programming language that you want to code the program.
